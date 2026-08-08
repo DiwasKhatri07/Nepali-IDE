@@ -1,0 +1,6 @@
+{
+  "name": "Code IDE",
+  "description": "Sophisticated AI-native mobile IDE and code editor with syntax highlighting, AI code completion, HTML live preview, and project workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
